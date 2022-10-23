@@ -1,0 +1,15 @@
+D:\Users\USER1\Desktop\Lecture3\Text_Correction\obj\Debug\net6.0\Text_Correction.csproj.AssemblyReference.cache
+D:\Users\USER1\Desktop\Lecture3\Text_Correction\obj\Debug\net6.0\Text_Correction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USER1\Desktop\Lecture3\Text_Correction\obj\Debug\net6.0\Text_Correction.AssemblyInfoInputs.cache
+D:\Users\USER1\Desktop\Lecture3\Text_Correction\obj\Debug\net6.0\Text_Correction.AssemblyInfo.cs
+D:\Users\USER1\Desktop\Lecture3\Text_Correction\obj\Debug\net6.0\Text_Correction.csproj.CoreCompileInputs.cache
+D:\Users\USER1\Desktop\Lecture3\Text_Correction\bin\Debug\net6.0\Text_Correction.exe
+D:\Users\USER1\Desktop\Lecture3\Text_Correction\bin\Debug\net6.0\Text_Correction.deps.json
+D:\Users\USER1\Desktop\Lecture3\Text_Correction\bin\Debug\net6.0\Text_Correction.runtimeconfig.json
+D:\Users\USER1\Desktop\Lecture3\Text_Correction\bin\Debug\net6.0\Text_Correction.dll
+D:\Users\USER1\Desktop\Lecture3\Text_Correction\bin\Debug\net6.0\Text_Correction.pdb
+D:\Users\USER1\Desktop\Lecture3\Text_Correction\obj\Debug\net6.0\Text_Correction.dll
+D:\Users\USER1\Desktop\Lecture3\Text_Correction\obj\Debug\net6.0\refint\Text_Correction.dll
+D:\Users\USER1\Desktop\Lecture3\Text_Correction\obj\Debug\net6.0\Text_Correction.pdb
+D:\Users\USER1\Desktop\Lecture3\Text_Correction\obj\Debug\net6.0\Text_Correction.genruntimeconfig.cache
+D:\Users\USER1\Desktop\Lecture3\Text_Correction\obj\Debug\net6.0\ref\Text_Correction.dll
