@@ -1,0 +1,15 @@
+D:\Users\USER1\Desktop\Lecture3\Multiplication_table\bin\Debug\net6.0\Multiplication_table.exe
+D:\Users\USER1\Desktop\Lecture3\Multiplication_table\bin\Debug\net6.0\Multiplication_table.deps.json
+D:\Users\USER1\Desktop\Lecture3\Multiplication_table\bin\Debug\net6.0\Multiplication_table.runtimeconfig.json
+D:\Users\USER1\Desktop\Lecture3\Multiplication_table\bin\Debug\net6.0\Multiplication_table.dll
+D:\Users\USER1\Desktop\Lecture3\Multiplication_table\bin\Debug\net6.0\Multiplication_table.pdb
+D:\Users\USER1\Desktop\Lecture3\Multiplication_table\obj\Debug\net6.0\Multiplication_table.csproj.AssemblyReference.cache
+D:\Users\USER1\Desktop\Lecture3\Multiplication_table\obj\Debug\net6.0\Multiplication_table.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USER1\Desktop\Lecture3\Multiplication_table\obj\Debug\net6.0\Multiplication_table.AssemblyInfoInputs.cache
+D:\Users\USER1\Desktop\Lecture3\Multiplication_table\obj\Debug\net6.0\Multiplication_table.AssemblyInfo.cs
+D:\Users\USER1\Desktop\Lecture3\Multiplication_table\obj\Debug\net6.0\Multiplication_table.csproj.CoreCompileInputs.cache
+D:\Users\USER1\Desktop\Lecture3\Multiplication_table\obj\Debug\net6.0\Multiplication_table.dll
+D:\Users\USER1\Desktop\Lecture3\Multiplication_table\obj\Debug\net6.0\refint\Multiplication_table.dll
+D:\Users\USER1\Desktop\Lecture3\Multiplication_table\obj\Debug\net6.0\Multiplication_table.pdb
+D:\Users\USER1\Desktop\Lecture3\Multiplication_table\obj\Debug\net6.0\Multiplication_table.genruntimeconfig.cache
+D:\Users\USER1\Desktop\Lecture3\Multiplication_table\obj\Debug\net6.0\ref\Multiplication_table.dll
